@@ -1,15 +1,9 @@
-<div align="center">
-
-<p>
-  <img src="macs-fan-control-logo.png" alt="Macs Fan Control Logo" width="140">
-</p>
-
 # 🌡️ Macs Fan Control for macOS
 
 ### Monitor temperatures. Control fan speed. Keep your Mac cool.
 
 <p>
-  <img src="macs-fan-control.png" alt="Macs Fan Control" width="760">
+  <img src="macs-fan-control-logo.png" alt="Macs Fan Control" width="300">
 </p>
 
 <p>
