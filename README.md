@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌡️ Macs Fan Control for macOS
 
 ### Monitor temperatures. Control fan speed. Keep your Mac cool.
