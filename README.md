@@ -142,14 +142,6 @@ For most users, **Auto** or **temperature-based fan control** is recommended.
 
 ---
 
-## 🔗 Links
-
-- [Macs Fan Control — Official Website](https://crystalidea.com/macs-fan-control)
-- [Homebrew](https://brew.sh/)
-- [Macs Fan Control on Homebrew](https://formulae.brew.sh/cask/macs-fan-control)
-
----
-
 <div align="center">
 
 ## ⭐ Like this repository?
